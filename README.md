@@ -1,4 +1,4 @@
-# 💓 VitaBeats
+# 💓 VitaBeat
 ### Sistema de Prevención de Soledad y Riesgo en Personas Mayores
 
 > **Proyecto universitario** · Inteligencia Artificial Aplicada  
