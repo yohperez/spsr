@@ -113,10 +113,10 @@ Los datos utilizados son **sintéticos y generados específicamente** para este 
 
 | Miembro | Rol |
 |---------|-----|
-| [Nombre 1] | Árbol de Decisión + Dataset |
-| [Nombre 2] | Regresión + Análisis de datos |
-| [Nombre 3] | Red Neuronal + Dashboard web |
-| [Nombre 4] | Documentación + Presentación |
+| Miembro 1 | Árbol de Decisión + Dataset |
+| Miembro 2 | Regresión + Análisis de datos |
+| Miembro 3 | Red Neuronal + Dashboard web |
+| Miembro 4 | Documentación + Presentación |
 
 ---
 
