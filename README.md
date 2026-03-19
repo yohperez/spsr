@@ -1,9 +1,10 @@
 # 💓 VitaBeat
 ### Sistema de Prevención de Soledad y Riesgo en Personas Mayores
 
-> **Proyecto universitario** · Inteligencia Artificial Aplicada  
+> **Proyecto Universitario** · Inteligencia Artificial Aplicada  
 > Detección temprana de aislamiento social y anomalías de salud mediante algoritmos de ML/IA
-
+>>  Materiales explicativos 1: https://notebooklm.google.com/notebook/41207f82-62d8-495d-ac18-0ffb6e2edc04?artifactId=db67d728-89f2-4914-82de-683b4885e15d
+ 
 ---
 
 ## 📋 Descripción del Problema
