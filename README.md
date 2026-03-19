@@ -4,6 +4,7 @@
 > **Proyecto Universitario** · Inteligencia Artificial Aplicada  
 > Detección temprana de aislamiento social y anomalías de salud mediante algoritmos de ML/IA
 >> Material Explicativo 1: https://notebooklm.google.com/notebook/41207f82-62d8-495d-ac18-0ffb6e2edc04?artifactId=db67d728-89f2-4914-82de-683b4885e15d
+>> 
 >> Material Explicativo 2: https://notebooklm.google.com/notebook/5e6799f8-14e3-4ba7-be88-2c2020b96db1?artifactId=09d6be74-8007-416a-8eeb-648f43d5331e
  
 ---
